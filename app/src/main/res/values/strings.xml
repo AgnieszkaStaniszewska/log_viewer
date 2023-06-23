@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Temat13</string>
+    <string name="error">Błąd</string>
+    <string name="error_read_logs">Wystąpił błąd odczytu logów</string>
+    <string name="logs_loaded">Wczytano logi</string>
+    <string name="load_logs">Wczytaj logi</string>
+</resources>
